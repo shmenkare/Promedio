@@ -1,0 +1,9 @@
+Promedio.csproj
+Promedio.sln
+Promedio.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
